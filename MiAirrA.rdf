@@ -1,11 +1,10 @@
+<https://repo.metadatacenter.org/template-instances/0be4b97f-a48a-4c71-a6ec-0036b696674d> <http://schema.org/mainEntity> "https://github.com/crimcc/bam2vcf" .
 <https://repo.metadatacenter.org/template-instances/0be4b97f-a48a-4c71-a6ec-0036b696674d> <http://open-services.net/ns/core#modifiedBy> <https://metadatacenter.org/users/30588ead-31b9-48ad-a24e-4499bba007a1> .
-
 <https://repo.metadatacenter.org/template-instances/0be4b97f-a48a-4c71-a6ec-0036b696674d> <http://purl.org/pav/createdBy> <https://metadatacenter.org/users/30588ead-31b9-48ad-a24e-4499bba007a1> .
 <https://repo.metadatacenter.org/template-instances/0be4b97f-a48a-4c71-a6ec-0036b696674d> <http://purl.org/pav/createdOn> "2020-07-02T19:10:53-0700"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
 <https://repo.metadatacenter.org/template-instances/0be4b97f-a48a-4c71-a6ec-0036b696674d> <http://purl.org/pav/lastUpdatedOn> "2020-07-02T19:16:16-0700"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
 <https://repo.metadatacenter.org/template-instances/0be4b97f-a48a-4c71-a6ec-0036b696674d> <http://schema.org/description> "Description of your digital object (or collection)" .
 <https://repo.metadatacenter.org/template-instances/0be4b97f-a48a-4c71-a6ec-0036b696674d> <http://schema.org/isBasedOn> <https://repo.metadatacenter.org/templates/9b1e4b70-3117-4723-b2f2-c544e8752813> .
-<https://repo.metadatacenter.org/template-instances/0be4b97f-a48a-4c71-a6ec-0036b696674d> <http://schema.org/mainEntity> "https://github.com/crimcc/bam2vcf" .
 <https://repo.metadatacenter.org/template-instances/0be4b97f-a48a-4c71-a6ec-0036b696674d> <http://schema.org/name> "Sean Digital Object A metadata" .
 <https://repo.metadatacenter.org/template-instances/0be4b97f-a48a-4c71-a6ec-0036b696674d> <https://schema.metadatacenter.org/properties/e1237ec9-da07-4cd9-b20c-42edee899a3c> "https://metadatacenter.org/longevityplan" .
 <https://repo.metadatacenter.org/template-instances/0be4b97f-a48a-4c71-a6ec-0036b696674d> <http://purl.org/ontology/bibo/doi> "10.1038/ni.3873" .
